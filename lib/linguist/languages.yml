@@ -1074,6 +1074,13 @@ DataWeave:
   ace_mode: text
   tm_scope: source.data-weave
   language_id: 974514097
+Dhall:
+  type: programming
+  color: "#3a3a3a"
+  extensions:
+  - ".dhall"
+  ace_mode: haskell
+  language_id: 974514098
 Diff:
   type: data
   extensions:
